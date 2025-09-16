@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Hey+there!+I'm+Bhavishya;💻+CSE+Student+%7C+AI+%26+Web+Dev+Enthusiast;🌱+Always+Learning+%26+Building+Skills" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Bhavishya</h1>
 <h3 align="center">💻 CSE Student | 🚀 AI & Web Dev Enthusiast | 🌱 Always Learning</h3>
 
